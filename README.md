@@ -1,0 +1,2 @@
+# FreddieBot
+Discord bot
